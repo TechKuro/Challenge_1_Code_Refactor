@@ -33,6 +33,10 @@ This webpage is to showcase the Semantic HTML elements used in a basic website. 
 
 ![Screenshot Of Project](assets/images/Capture.PNG)
 
+## Link To Deployed Demo Site
+
+[Demo Site](https://techkuro.github.io/Challenge_1_Code_Refactor/)
+
 ## License
 
 MIT License
